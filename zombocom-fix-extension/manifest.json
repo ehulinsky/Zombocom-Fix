@@ -5,7 +5,7 @@
   "content_scripts": [
   {
     "matches": [
-      "*://zombo.com/"
+      "*://*.zombo.com/"
     ],
     "css": ["style.css"],
     "js": ["content.js"]
