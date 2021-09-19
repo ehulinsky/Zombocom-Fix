@@ -1,0 +1,23 @@
+
+body {
+    /* remove the scrollbar so it doesnt do the annoying jitter thing */
+    overflow: hidden;  
+}
+
+img {
+    /* make images not selectable/draggable so its like the good old days of flash */
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.signup {
+    font-size: large;
+    display: inline;
+    font-family: verdana;
+    font-weight: bolder;
+    color: black;
+    user-select: none;
+}
