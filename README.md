@@ -1,4 +1,4 @@
-# zombocom-fix
+# Zombocom-fix
 This is a Chrome extension that improves the zombo.com experience. I made this extension because zombo.com was rewritten in HTML5 after Flash was discontinued, but the new version has issues and is missing features. Why did I do this? *Because you can do anything at Zombocom. Anything at all. The only limit is yourself.*
 
 ## Installation
