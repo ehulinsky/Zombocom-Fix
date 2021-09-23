@@ -16,7 +16,7 @@ img {
 .signup {
     font-size: large;
     display: inline;
-    font-family: verdana;
+    font-family: verdana, sans-serif;
     font-weight: bolder;
     color: black;
     user-select: none;
